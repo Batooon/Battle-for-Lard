@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90266605-a530-4c18-813b-b132a8cd5137" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HorizontalInputTransition.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerGroundState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/State.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/IdleState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerGroundedState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/StateTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/JumpTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InputHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/JumpState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerUtilities.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LandState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/IdleTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GroundChecker.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/StateMachine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InAirTransition.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/EntryPoint.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1qAxhv1KB8H8ifuqt2yUnNkZrZ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.43512452" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30013105" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.40274313" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90266605-a530-4c18-813b-b132a8cd5137" name="Default Changelist" comment="" />
+      <created>1616536363559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616536363559</updated>
+      <workItem from="1616536515890" duration="137000" />
+      <workItem from="1616685717453" duration="3987000" />
+      <workItem from="1616881013326" duration="1512000" />
+      <workItem from="1617029234839" duration="15376000" />
+      <workItem from="1617359121818" duration="381000" />
+      <workItem from="1617360471410" duration="14293000" />
+      <workItem from="1619298168650" duration="8559000" />
+      <workItem from="1623427970283" duration="4583000" />
+      <workItem from="1623835183318" duration="591000" />
+      <workItem from="1625496088911" duration="7649000" />
+      <workItem from="1626777625439" duration="19555000" />
+      <workItem from="1626963032006" duration="1897000" />
+      <workItem from="1626972833820" duration="6312000" />
+      <workItem from="1627046574272" duration="5731000" />
+      <workItem from="1627061187111" duration="12428000" />
+      <workItem from="1627396052017" duration="325000" />
+      <workItem from="1627397224746" duration="10851000" />
+      <workItem from="1627909690042" duration="1804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
