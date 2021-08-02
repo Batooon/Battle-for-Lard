@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿using Data;
+using Logic;
+using Logic.StateMachine;
+using Logic.StateMachine.States;
+using Logic.StateMachine.Transitions;
+using UnityEngine;
+using Utils;
 
 public class EntryPoint : MonoBehaviour
 {
